@@ -2,10 +2,7 @@
 
 A simple platformer. Can you outrun the radiation and avoid the death traps?
 
-Currently, you must run the game yourself, it is not hosted anywhere.
-
-Run using WebStorm
-
+You can play this game here https://s3.amazonaws.com/aws-website-nuclearfallin-y1bb0/nuclearFallIn.html
 
 
 ## Contributors
